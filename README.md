@@ -36,11 +36,3 @@ git clone https://github.com/S1lence-z/space-runner.git
 ## Contributing
 
 Contributions to this Pexeso game project are welcome. If you have any improvements or bug fixes to suggest, please create a pull request or open an issue to discuss your ideas.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README with additional information or sections as needed. Make sure to include any specific instructions for running the game or contributing to the project.
