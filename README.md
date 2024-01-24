@@ -27,7 +27,7 @@ To run the game on your local machine, follow these steps:
 1. Clone this repository to your computer.
 
 ```shell
-git clone https://github.com/S1lence-z/space-runner.git
+git clone [https://github.com/S1lence-z/pexeso-game.git]
 ```
 
 2. Open the project in Visual Studio (or your preferred C# development environment).
